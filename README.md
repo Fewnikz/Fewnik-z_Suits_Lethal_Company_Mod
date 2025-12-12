@@ -1,2 +1,2 @@
-# Fewnik'z Suits
+# Fewnikz Suits
 ## A mod i made using the more suits library. Right now the mod only has one suit. But i am planing to add more. I mostly made this mod to learn how to upload and package a mod to the thunderstore
