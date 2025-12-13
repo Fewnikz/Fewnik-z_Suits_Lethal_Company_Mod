@@ -2,7 +2,7 @@
     "name": "Fewnikz_Suits",
     "version_number": "0.0.4",
     "website_url": "https://github.com/x753/Lethal-Company-More-Suits",
-    "description": "Adds one more suit for now!",
+    "description": "Adds two more suit for now!",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "x753-More_Suits-1.5.2"
