@@ -14,4 +14,7 @@
 ## v0.0.5 Alpha Release
 - Removed !less-suits.txt file
 
+## v0.0.6 Alpha Release
+- Added the unused files again because my mod won't work after i deleted them?
+
 </details>
