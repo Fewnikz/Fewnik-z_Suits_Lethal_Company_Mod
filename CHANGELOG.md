@@ -11,4 +11,7 @@
 - Removed unused files
 - Added pig suit
 
+## v0.0.5 Alpha Release
+- Removed !less-suits.txt file
+
 </details>
